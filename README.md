@@ -7,7 +7,7 @@ facturascraper es una función diseñada para tomar todas las facturas (de emisi
 Esta será guardada en un archivo en formato CSV.
 
 # ¿Cómo Usar?
-La función facturaScraper toma dos argumentos:
+La función facturascraper toma dos argumentos:
 
 >*carpetaOrigen* es la ruta de archivo a la carpeta donde se encuentran las facturas a utilizar. Por defecto se usa ./facturasPendientes
 
